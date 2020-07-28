@@ -25,9 +25,9 @@
 
 <h4>Currently studying:</h4>
 <ul>
-  <li>Fullstack - Web & Mobile from Rocketseat: 18% done</li>
-  <li>Deep Learning with Python</li>
-  <li>SEO</li>
+  <li>Fullstack - Web & Mobile from Rocketseat: 30% done</li>
+  <li>Deep Learning with Python from Udemy: 24% done</li>
+  <li>SEO from Udemy: 32% done</li>
   <li>German</li>
   <li>Swedish</li>
 </ul>
