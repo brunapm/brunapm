@@ -16,23 +16,22 @@
   <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" alt="css3" width="30" height="30"/>
   <img src="https://cdn.worldvectorlogo.com/logos/mysql.svg" alt="mysql" width="45" height="30"/>
 </p>
-<h4>About me:</h4>
-<ul>
-  <li>:floppy_disk: I am a Computer Engineering student with broad experience </li>
-  <li>:books: Currently working on final thesis</li>
-  <li>:airplane: I love to study new technologies and to get to know different people and places</li>
-</ul>
 
-<h4>Currently studying:</h4>
-<ul>
-  <li>Fullstack - Web & Mobile from Rocketseat: 30% done</li>
-  <li>Deep Learning with Python from Udemy: 24% done</li>
-  <li>SEO from Udemy: 32% done</li>
-  <li>German</li>
-  <li>Swedish</li>
-</ul>
+#### About me:
 
-<h5>Plans for the year:</h5>
+* :floppy_disk: I am a Computer Engineering student with broad experience
+* :books: Currently working on final thesis
+* :airplane: I love to study new technologies and to get to know different people and places
+
+#### Currently studying:
+
+* Fullstack Development - Web & Mobile from Rocketseat: 30% done
+* Deep Learning with Python from Udemy: 24% done
+* SEO from Udemy: 32% done
+* German
+* Swedish
+
+#### Plans for the year:
 
 - [ ] Collaborate on **Debian and Ubuntu**
 - [ ] Write my thesis
