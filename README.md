@@ -25,7 +25,7 @@
 
 #### Currently studying:
 
-* Fullstack Development - Web & Mobile from Rocketseat: 53% done
+* Fullstack Development - Web & Mobile from Rocketseat: 65% done
 * Deep Learning with Python from Udemy: 24% done
 * SEO from Udemy: 32% done
 * German
