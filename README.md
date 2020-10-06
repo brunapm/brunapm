@@ -26,9 +26,10 @@
 #### Currently studying:
 
 * Fullstack Development - Web & Mobile from Rocketseat: **completed!!**
-* Deep Learning with Python from Udemy: 24% done
-* SEO from Udemy: 32% done
-* German
+* Deep Learning with Python (Udemy): 24% done
+* AWS Fundamentals (Coursera): 0% done
+* SEO (Udemy): 32% done
+* German (DW Online Course - A1)
 * Swedish
 
 #### Plans for the year:
