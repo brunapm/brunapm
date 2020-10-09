@@ -27,7 +27,7 @@
 
 * Fullstack Development - Web & Mobile from Rocketseat: **completed!!**
 * Deep Learning with Python (Udemy): 24% done
-* AWS Fundamentals (Coursera): 0% done
+* AWS Fundamentals (Coursera): 5% done
 * SEO (Udemy): 32% done
 * German (DW Online Course - A1)
 * Swedish
