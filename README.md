@@ -42,6 +42,6 @@
 
 :ledger: All of my projects will be available soon at [https://brunapm.github.io/](https://brunapm.github.io/)
   
-:postbox: Reach me at **brunamonarin@gmail.com** ||
-<a href="https://linkedin.com/in/bruna-de-paula-monarin" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1024px-LinkedIn_Logo.svg.png" alt="bruna-de-paula-monarin" height="28" width="100" /></a>
+:postbox: Reach me @ **brunamonarin@gmail.com** ||
+<a href="https://linkedin.com/in/bruna-de-paula-monarin" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1024px-LinkedIn_Logo.svg.png" alt="bruna-de-paula-monarin" height="16" width="58" /></a>
 
