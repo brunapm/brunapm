@@ -8,9 +8,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
 </p>
 <p align="center">
-  <img src="https://www.clipartmax.com/png/middle/351-3515666_c-language-global-or-external-variables-with-examples-c-programming-logo.png" alt="c" width="30" height="30"/>
-  <img src="https://www.pngkit.com/png/detail/534-5342172_c-language-course-c-logo.png" alt="cplusplus" width="30" height="30"/>
-  <img src="https://icon2.cleanpng.com/20180408/ovq/kisspng-c-programming-language-computer-icons-computer-pr-programming-5acadc61c83e28.8330255915232441298202.jpg" alt="csharp" width="30" height="30"/>
   <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" alt="docker" width="30" height="30"/>
   <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" alt="html5" width="30" height="30"/>
   <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" alt="css3" width="30" height="30"/>
@@ -25,23 +22,39 @@
 
 #### Currently studying:
 
-* Fullstack Development - Web & Mobile from Rocketseat: **completed!!**
-* Deep Learning with Python (Udemy): 24% done
-* AWS Fundamentals (Coursera): 11% done
-* SEO (Udemy): 35% done
-* German (DW Online Course - A1)
-* Swedish
+* Full Stack Development
+  * React
+  * React Native
+  * Node.js
+  * Next.js
+  * Gatsby
+  * Storybook
+  * HTML
+  * CSS
+  * Javascript
+  * Typescript
+  * SEO
+* AWS
+* Machine Learning
+* Deep Learning
+* Languages
+  * English
+  * German
+  * Swedish
 
 #### Plans for the year:
 
 - [ ] Collaborate on **Debian and Ubuntu**
 - [ ] Write my thesis
 - [ ] Compete on Kaggle
-- [ ] Create a great portfolio
-- [ ] Have fun working on personal projects
+- [x] Create a great portfolio
+- [x] Have fun working on personal projects
 
-:ledger: All of my projects will be available soon at [https://brunapm.github.io/](https://brunapm.github.io/)
-  
-:postbox: Reach me @ **brunamonarin@gmail.com** ||
-<a href="https://linkedin.com/in/bruna-de-paula-monarin" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1024px-LinkedIn_Logo.svg.png" alt="bruna-de-paula-monarin" height="16" width="58" /></a>
+#### Portfolio
+
+:ledger: My portfolio is available on [My GitHub Page](https://brunapm.github.io/) and here on [GitHub](https://github.com/brunapm) =]
+
+#### Contact Info
+[![Linkedin Badge](https://img.shields.io/badge/-Bruna%20Monarin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruna-de-paula-monarin/)](https://www.linkedin.com/in/bruna-de-paula-monarin/)
+[![Gmail Badge](https://img.shields.io/badge/-brunamonarin@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:brunamonarin@gmail.com)](mailto:brunamonarin@gmail.com)
 
