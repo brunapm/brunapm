@@ -1,5 +1,5 @@
-<h2 align="center">Hey everyone 👋, I'm Bruna de Paula Monarin</h2>
-<h3 align="center">A Fullstack Developer that is passionate about Machine Learning</h3>
+<h2 align="center">Hey, everyone! 👋 I'm Bruna de Paula Monarin (she/her)</h2>
+<h3 align="center">A Full Stack Developer, (almost) Computer Engineer, passionate about Machine Learning</h3>
 <p align="center">
   <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" alt="typescript" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/600px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/>
