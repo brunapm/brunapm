@@ -64,7 +64,7 @@
 
 #### Portfolio
 
-:ledger: My portfolio is available on [My GitHub Page](https://brunapm.github.io/) and here on [GitHub](https://github.com/brunapm) =]
+:ledger: My portfolio is available on [My GitHub Page](https://brunapm.github.io/) and here on [GitHub](https://github.com/brunapm) :octocat:
 
 #### Contact Info
 [![Linkedin Badge](https://img.shields.io/badge/-Bruna%20Monarin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruna-de-paula-monarin/)](https://www.linkedin.com/in/bruna-de-paula-monarin/)
