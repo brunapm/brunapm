@@ -20,6 +20,18 @@
 * :books: Currently working on final thesis
 * :airplane: I love to study new technologies and to get to know different people and places
 
+#### :rocket: Education:
+* Full Stack Development Course on [Rocketseat](https://rocketseat.com.br/) - Completed on October/2020
+  * Focus on  Web and Mobile Development using TypeScript and Javascript
+  * Stack: Node.js, React and React Native
+  * Real Projects - Authentication, Database Configuration and Access, REST APIs, Cache, Maps, Forms, Data Validation, File Upload, Middlewares
+  * Relational and Non-Relational DB: MongoDB, PostgreSQL, Redis, SQLite
+  * Design Patterns: DDD, TDD, SOLID
+  * Automated Testing with Jest and Coverage Report
+  * Application Deploy - Docker, CI/CD, GitHub Actions, Publishing Apps on Google Play Store and Apple App Store
+* Computer Engineering on [UTFPR](http://engcomp.dainf.ct.utfpr.edu.br/) - ETC (Estimated Time of Completion): June/2021
+  * Focus on Embedded Systems
+
 #### Currently studying:
 
 * Full Stack Development
